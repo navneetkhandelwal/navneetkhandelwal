@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @navneetkhandelwal
-- 👀 I’m interested in ...iOS development and SDE-1 
-- 🌱 I’m currently learning ...Swift language and DSA concepts
-- 💞️ I’m looking to collaborate on ...iOS development 
+- 👀 I’m interested in ...iOS development and SDE-1 roles.
+- 🌱 I'm currently working as an iOS developer intern in Oye Rickshaw Gurgaon
 - 📫 How to reach me ...9773549557
 
 <!---
