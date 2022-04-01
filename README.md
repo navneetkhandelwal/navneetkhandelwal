@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navneetkhandelwal
 - 👀 I’m interested in ...iOS development and SDE-1 roles.
-- 🌱 I'm currently working as an iOS developer intern in Oye Rickshaw Gurgaon
+- 🌱 I'm currently working as an SDE intern in Amazon.
 - 📫 How to reach me ...9773549557
 
 <!---
