@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navneetkhandelwal
-- 👀 I’m interested in ...iOS development and SDE-1 roles.
-- 🌱 I'm currently working as an SDE intern in Amazon.
+- 👀 I’m interested in ...SDE-1 backend roles.
+- 🌱 I'm currently working as an SDE in ULA.
 - 📫 How to reach me ...9773549557
 
 <!---
